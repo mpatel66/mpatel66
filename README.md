@@ -16,6 +16,15 @@ Tsundoku is a front-end native app for searching and saving the books you'd like
 #### Honing my TS skills
 As well as working on some apps, over the past few weeks, I've been transitioning from primarily writing in Javascript to Typescript. Although writing in TS takes a bit longer, I now think about the shape of the data or spend a bit more time thinking through the logic before I dive head-first into writing the code.
 
+### Things I like to do besides coding
+- Reading :books:
+- Hiking :walking_woman:
+- Star gazing :telescope: :moon:
+- Watching youTubers discuss which Star Trek is the best.... (it's obviously DS9 people!!!)
+
+### How I Git
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mpatel66)](https://github.com/mpatel66/github-readme-stats)
+
 ### My Languages and tools
 
 <code><img height="40" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -25,12 +34,3 @@ As well as working on some apps, over the past few weeks, I've been transitionin
 <code><img height="40" alt="GraphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-
-### Things I like to do besides coding
-- Reading :books:
-- Hiking :walking_woman:
-- Star gazing :telescope: :moon:
-- Watching youTubers discuss which Star Trek is the best.... (it's obviously DS9 people!!!)
-
-### How I Git
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mpatel66)](https://github.com/mpatel66/github-readme-stats)
