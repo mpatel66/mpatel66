@@ -8,6 +8,8 @@ I'm currently open for work, so if you're hiring feel free to [message me on Lin
 #### Remedic :hospital:
 Remedic is a full stack app that provides an in-person patient-doctor consultation across a language-barrier without using a translator. Patients can fill out a pre-consultation quesionnaire in one of 24 languages, and communicate with a doctor via a live-translated chat app.
 
+<img align="right" alt="An Ode to TypeScript" src="ReadMeImage.png" width="500" />
+
 #### Tsundoku :book:
 Tsundoku is a front-end native app for searching and saving the books you'd like to read or have read.
 
